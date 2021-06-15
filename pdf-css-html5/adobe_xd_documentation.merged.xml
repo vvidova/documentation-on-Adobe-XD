@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/D:/4th year/8 semester/DITA/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/4th year/8 semester/DITA/Oxygen XML Editor 23/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/4th year/8 semester/DITA/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/4th%20year/8%20semester/DITA/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/4th%20year/8%20semester/DITA/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " collection-type="sequence" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:33" xtrf="file:/C:/Users/Asus/Desktop/Documentation%20-%20final/adobe_xd_documentation.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Adobe XD - documentation</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Adobe XD - documentation</title>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="About Adobe XD"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d135e14">About Adobe XD</navtitle></topicmeta><topicref audience="novice" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_adobe_xd"><resourceid appid="what_is_adobe_xd" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">What is Adobe XD?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Adobe XD is used for creating designs for websites and mobile apps.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="How to create a new project?"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d135e27">How to create a new project?</navtitle></topicmeta><topicref audience="novice" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_create_a_new_project"><resourceid appid="how_to_create_a_new_project" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Creating a project with a preset project</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can create a new project by choosing one of the preset projects.</shortdesc></topicmeta></topicref><topicref audience="novice" class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_create_a_custom_project"><resourceid appid="how_to_create_a_custom_project" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Creating a custom project</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can choose the dimensions for your new project by creating a custom         project.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="How to draw basic shapes using tools?"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d135e51">How to draw basic shapes using tools?</navtitle></topicmeta><topicref audience="novice" class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_draw_a_rectangle"><resourceid appid="how_to_draw_a_rectangle" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Drawing a square</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can add a new shape to your design using a square.</shortdesc></topicmeta></topicref><topicref audience="novice" class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_draw_a_triangle"><resourceid appid="how_to_draw_a_triangle" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Drawing a triangle</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can add a new shape to your design using a triangle.</shortdesc></topicmeta></topicref><topicref audience="novice" class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_draw_a_circle"><resourceid appid="how_to_draw_a_circle" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Drawing a circle</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can add a new shape to your design using a circle.</shortdesc></topicmeta></topicref><topicref audience="novice" class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_draw_a_line"><resourceid appid="how_to_draw_a_line" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Drawing a line</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can add a new shape to your design using a line.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Tasks "><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d135e97">Tasks </navtitle></topicmeta><topicref audience="novice" class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_group_objects"><resourceid appid="how_to_group_objects" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">How to group objects?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can treat multiple object as a single unit by combining them into a         group.</shortdesc></topicmeta></topicref><topicref audience="novice" class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_lock_objects"><resourceid appid="how_to_lock_objects" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">How to lock an object?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can stop selecting and editing an object by locking it. </shortdesc></topicmeta></topicref><topicref audience="novice" class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_apply_a_fill_color_to_an_object"><resourceid appid="how_to_apply_a_fill_color_to_an_object" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">How to apply a fill color to an object?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can change the color of an object with your desired one by choosing a fill         color.</shortdesc></topicmeta></topicref><topicref audience="expert" class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_create_a_repeat_grid"><resourceid appid="how_to_create_a_repeat_grid" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">How to create a repeat grid?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can save time while designing by using repeat grid. </shortdesc></topicmeta></topicref><topicref audience="expert" class="- map/topicref " href="#unique_12" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_link_an_object"><resourceid appid="how_to_link_an_object" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">How to link an object?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">When you want to make your project interactive, you need to link objects.</shortdesc></topicmeta></topicref><topicref audience="novice" class="- map/topicref " href="#unique_13" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_save_your_project_as_pdf"><resourceid appid="how_to_save_your_project_as_pdf" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">How to save your project as a single PDF?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can save your project on your computer by saving it as a single PDF. </shortdesc></topicmeta></topicref><topicref audience="expert" class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_share_your_prototype_online"><resourceid appid="how_to_share_your_prototype_online" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">How to share your project online?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">When you want certain people to see your project, you can share it online and send         them the link.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Keyboard Shortcuts"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d135e177">Keyboard Shortcuts</navtitle></topicmeta><topicref audience="expert" class="- map/topicref " href="#unique_15" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="keyboard_shortcuts"><resourceid appid="keyboard_shortcuts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Keyboard Shortcuts</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can use shortcuts in Adobe XD to finish your work faster. </shortdesc></topicmeta></topicref></topichead>
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d135e14" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">About Adobe XD</ph></title><concept class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="what_is_adobe_xd" oid="what_is_adobe_xd" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is Adobe XD?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Adobe XD is used for creating designs for websites and mobile apps.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Adobe Experience Design (Adobe XD) is a vector-based user interface (UI) and user
+            experience (UX) design tool for websites and mobile apps. It works for all types of
+            projects because it allows you to easily add and remove content. You can use the tool
+            individually or together with a team. </p>
+        <p class="- topic/p ">It is available on Mac, Windows, iOS and Android. </p>
+        <p class="- topic/p ">With Adobe XD you can: <ul class="- topic/ul " id="unique_1_Connect_42_ul_osp_135_5pb" nd:nd-id="ul_osp_135_5pb">
+                <li class="- topic/li ">Easily create a new project.</li>
+                <li class="- topic/li ">Draw basic shapes using tools. </li>
+                <li class="- topic/li ">Group objects. </li>
+                <li class="- topic/li ">Lock objects. </li>
+                <li class="- topic/li ">Apply a fill color to an object. </li>
+                <li class="- topic/li ">Create a repeat grid. </li>
+                <li class="- topic/li ">Link an object. </li>
+                <li class="- topic/li ">Save your project as a single PDF. </li>
+                <li class="- topic/li ">Share your project online.</li>
+            </ul></p>
+        <p class="- topic/p "><image class="- topic/image " height="300" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/XD.png" id="unique_1_Connect_42_image_fmd_tyh_xpb" nd:nd-id="image_fmd_tyh_xpb" placement="inline" width="300"/></p>
+    </conbody>
+</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d135e27" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to create a new project?</ph></title><task class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="how_to_create_a_new_project" oid="how_to_create_a_new_project" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Creating a project with a preset project</ph></title>
+    <shortdesc class="- topic/shortdesc ">You can create a new project by choosing one of the preset projects.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_2_Connect_42_prereq_jts_pp5_5pb" nd:nd-id="prereq_jts_pp5_5pb">You must have installed Adobe XD on your computer and know
+            what an artboard is. The artboard represents the screen in your app design or the page
+            in your web design.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You will be able to create a project with a preset artboard in Adobe XD. </p>
+            <p class="- topic/p ">You can easily create a project using one of the given preset projects. </p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open Adobe XD.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on one of the three artboards to create your project. <image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/preset%20artboards.png" id="unique_2_Connect_42_image_m2q_dzh_xpb" nd:nd-id="image_m2q_dzh_xpb" placement="inline"/></cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_2_Connect_42_result_bxc_rsx_vpb" nd:nd-id="result_bxc_rsx_vpb">
+            <p class="- topic/p ">As a result after following the steps above you will have created a project with a
+                preset artboard in Adobe XD. </p>
+            <p class="- topic/p "><image class="- topic/image " height="200" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/creating%20a%20project%20with%20a%20preset%20artboard.png" id="unique_2_Connect_42_image_y4z_2fr_xpb" nd:nd-id="image_y4z_2fr_xpb" placement="inline" width="324"/></p>
+        </result>
+        <example class="- topic/example " id="unique_2_Connect_42_example_v2y_2wx_vpb" nd:nd-id="example_v2y_2wx_vpb">
+            <p class="- topic/p ">In order to use Adobe XD, you need to create a project.</p>
+        </example>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="how_to_create_a_custom_project" oid="how_to_create_a_custom_project" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Creating a custom project</ph></title>
+    <shortdesc class="- topic/shortdesc ">You can choose the dimensions for your new project by creating a custom
+        project.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_3_Connect_42_prereq_cdv_kt5_5pb" nd:nd-id="prereq_cdv_kt5_5pb">You must have installed Adobe XD on your computer and know
+            what an artboard is. The artboard represents the screen in your app design or the page
+            in your web design.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You will be able to create a custom project in Adobe XD. </p>
+            <p class="- topic/p ">You can create a custom project, if you do not want to use any of the preset
+                projects. The custom project allows you to have specific values for width and
+                height. </p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open Adobe XD. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Navigate to <b class="+ topic/ph hi-d/b ">Custom Size</b>. <image class="- topic/image " height="100" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/custom.png" id="unique_3_Connect_42_image_bt2_5bp_wpb" nd:nd-id="image_bt2_5bp_wpb" placement="inline" width="100"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the width and the height for the artboard in the <b class="+ topic/ph hi-d/b ">W</b> and <b class="+ topic/ph hi-d/b ">H</b>
+                    sections. <image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/w%20h%20sect.png" id="unique_3_Connect_42_image_tfq_vbp_wpb" nd:nd-id="image_tfq_vbp_wpb" placement="inline"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on <b class="+ topic/ph hi-d/b ">Custom Size</b> to create your custom project. <image class="- topic/image " height="100" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/custom%20p.png" id="unique_3_Connect_42_image_zqy_ccp_wpb" nd:nd-id="image_zqy_ccp_wpb" placement="inline" width="100"/></cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_3_Connect_42_result_d4l_lsx_vpb" nd:nd-id="result_d4l_lsx_vpb">
+            <p class="- topic/p ">As a result after following the steps above you will have created a custom project in
+                Adobe XD.</p>
+            <p class="- topic/p "><image class="- topic/image " height="169" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/create%20a%20custom%20project%20result.png" id="unique_3_Connect_42_image_mvz_3fr_xpb" nd:nd-id="image_mvz_3fr_xpb" placement="inline" width="273"/></p>
+        </result>
+        <example class="- topic/example " id="unique_3_Connect_42_example_kn3_55x_vpb" nd:nd-id="example_kn3_55x_vpb">
+            <p class="- topic/p ">When you want to create a new project with specific width and height, different from
+                the prest artboard, you need to create a custom project. </p>
+        </example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d135e51" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to draw basic shapes using tools?</ph></title><task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="how_to_draw_a_rectangle" oid="how_to_draw_a_rectangle" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Drawing a square</ph></title>
+    <shortdesc class="- topic/shortdesc ">You can add a new shape to your design using a square.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_4_Connect_42_prereq_rbg_2fw_5pb" nd:nd-id="prereq_rbg_2fw_5pb">You have created a <xref class="- topic/xref " href="#unique_2" type="task"><?ditaot usertext?>new project with a preset
+                artboard<?ditaot genshortdesc?><desc class="- topic/desc ">You can create a new project by choosing one of the preset projects.</desc></xref> or a <xref class="- topic/xref " href="#unique_3" type="task"><?ditaot usertext?>custom
+                project<?ditaot genshortdesc?><desc class="- topic/desc ">You can choose the dimensions for your new project by creating a custom         project.</desc></xref>. </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You will be able to draw a basic shape in your project in
+                Adobe XD.</p>
+            
+            <p class="- topic/p ">You can quickly draw squares using the Rectangle tool - a drawing tool located on the
+                left toolbar. </p>
+            <p class="- topic/p "><image class="- topic/image " height="214" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/drawing%20a%20square%20tool%20.png" id="unique_4_Connect_42_image_ex2_phr_xpb" nd:nd-id="image_ex2_phr_xpb" placement="inline" width="26"/></p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the Rectangle tool <image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/rec.png" id="unique_4_Connect_42_image_kcf_fgw_5pb" nd:nd-id="image_kcf_fgw_5pb" placement="inline"/> in the upper left.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Hold down the <b class="+ topic/ph hi-d/b ">Shift</b> key</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Drag the square diagonally until the it is the desired size. </cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_4_Connect_42_result_ds5_ssx_vpb" nd:nd-id="result_ds5_ssx_vpb">
+            <p class="- topic/p ">As a result after following the steps above you will have drawn a square in Adobe XD. </p>
+            <p class="- topic/p "><image class="- topic/image " height="200" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/squre.png" id="unique_4_Connect_42_image_lkk_fhp_wpb" nd:nd-id="image_lkk_fhp_wpb" placement="inline" width="200"/></p>
+        </result>
+        <example class="- topic/example " id="unique_4_Connect_42_example_fd2_hwx_vpb" nd:nd-id="example_fd2_hwx_vpb">When you want to create a new design by combining different
+            shapes, you need to add a square to it. </example>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="how_to_draw_a_triangle" oid="how_to_draw_a_triangle" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Drawing a triangle</ph></title>
+    <shortdesc class="- topic/shortdesc ">You can add a new shape to your design using a triangle.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_5_Connect_42_prereq_irz_z3w_5pb" nd:nd-id="prereq_irz_z3w_5pb">You have created a <xref class="- topic/xref " href="#unique_2" type="task"><?ditaot usertext?>new project using a
+                preset artboard<?ditaot genshortdesc?><desc class="- topic/desc ">You can create a new project by choosing one of the preset projects.</desc></xref> or a <xref class="- topic/xref " href="#unique_3" type="task"><?ditaot usertext?>custom
+                project<?ditaot genshortdesc?><desc class="- topic/desc ">You can choose the dimensions for your new project by creating a custom         project.</desc></xref>.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You will be able to draw a basic shape in your project in
+                Adobe XD.</p><p class="- topic/p " id="unique_5_Connect_42_target_t" nd:nd-id="target_t">You can quickly draw triangles using the Triangle tool - a drawing tool
+                located on the left toolbar.</p>
+            <p class="- topic/p "><image class="- topic/image " height="214" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/drawing%20a%20triangle%20tool%20.png" id="unique_5_Connect_42_image_kfp_whr_xpb" nd:nd-id="image_kfp_whr_xpb" placement="inline" width="26"/></p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the triangle tool <image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/triangle.png" id="unique_5_Connect_42_image_hxb_gjw_5pb" nd:nd-id="image_hxb_gjw_5pb" placement="inline"/> .</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Drag the triangle diagonally until the it is the desired size.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_5_Connect_42_result_qnv_xsx_vpb" nd:nd-id="result_qnv_xsx_vpb">
+            <p class="- topic/p ">As a result after following the steps above you will have drawn a triangle in Adobe
+                XD.</p>
+            <p class="- topic/p "><image class="- topic/image " height="264" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/triangle%20results.png" id="unique_5_Connect_42_image_hs3_3jr_xpb" nd:nd-id="image_hs3_3jr_xpb" placement="inline" width="332"/></p>
+        </result>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="how_to_draw_a_circle" oid="how_to_draw_a_circle" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Drawing a circle</ph></title>
+    <shortdesc class="- topic/shortdesc ">You can add a new shape to your design using a circle.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_6_Connect_42_prereq_xqt_d3w_5pb" nd:nd-id="prereq_xqt_d3w_5pb">You have created a <xref class="- topic/xref " href="#unique_2" type="task"><?ditaot usertext?>new project using a
+                preset artboard<?ditaot genshortdesc?><desc class="- topic/desc ">You can create a new project by choosing one of the preset projects.</desc></xref> or a <xref class="- topic/xref " href="#unique_3" type="task"><?ditaot usertext?>custom
+                project<?ditaot genshortdesc?><desc class="- topic/desc ">You can choose the dimensions for your new project by creating a custom         project.</desc></xref>.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You will be able to draw a circle in your project in Adobe XD.</p>
+            <p class="- topic/p ">You can quickly draw circles using the Ellipse tool - a drawing tool located on the
+                left toolbar.</p>
+            <p class="- topic/p "><image class="- topic/image " height="214" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/drawing%20an%20ellipse%20tool%20.png" id="unique_6_Connect_42_image_wmf_vhr_xpb" nd:nd-id="image_wmf_vhr_xpb" placement="inline" width="26"/></p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the Ellipse tool <image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/ellipse.png" id="unique_6_Connect_42_image_wqs_43w_5pb" nd:nd-id="image_wqs_43w_5pb" placement="inline"/>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Hold down the <b class="+ topic/ph hi-d/b ">Shift</b> key.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Drag the circle diagonally until the it is the desired size.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_6_Connect_42_result_k1d_xsx_vpb" nd:nd-id="result_k1d_xsx_vpb">
+            <p class="- topic/p ">As a result after following the steps above you will have drawn a circle in Adobe XD. </p>
+            <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/ci.png" id="unique_6_Connect_42_image_zs2_nhp_wpb" nd:nd-id="image_zs2_nhp_wpb" placement="inline"/></p>
+        </result>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="how_to_draw_a_line" oid="how_to_draw_a_line" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Drawing a line</ph></title>
+    <shortdesc class="- topic/shortdesc ">You can add a new shape to your design using a line.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_7_Connect_42_prereq_w1x_vjw_5pb" nd:nd-id="prereq_w1x_vjw_5pb">You have created a <xref class="- topic/xref " href="#unique_2" type="task"><?ditaot usertext?>new project using a
+                preset artboard<?ditaot genshortdesc?><desc class="- topic/desc ">You can create a new project by choosing one of the preset projects.</desc></xref> or a <xref class="- topic/xref " href="#unique_3" type="task"><?ditaot usertext?>custom
+                project<?ditaot genshortdesc?><desc class="- topic/desc ">You can choose the dimensions for your new project by creating a custom         project.</desc></xref>.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You will be able to draw a line in your project in Adobe XD.</p>
+            <p class="- topic/p ">You can quickly draw lines using the Line tool - a drawing tool located on the left
+                toolbar.</p>
+            <p class="- topic/p "><image class="- topic/image " height="214" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/drawing%20a%20line%20tool%20.png" id="unique_7_Connect_42_image_jfs_xhr_xpb" nd:nd-id="image_jfs_xhr_xpb" placement="inline" width="26"/></p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the line tool <image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/line.png" id="unique_7_Connect_42_image_oqd_1kw_5pb" nd:nd-id="image_oqd_1kw_5pb" placement="inline"/> .</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Place the pointer where you want the line to begin.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Drag it to where you want the line to end. </cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_7_Connect_42_result_uyk_ysx_vpb" nd:nd-id="result_uyk_ysx_vpb">
+            <p class="- topic/p ">As a result after following the steps above you will have drawn a line in Adobe
+                XD.</p>
+            <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/line%20result.png" id="unique_7_Connect_42_image_qyh_yhp_wpb" nd:nd-id="image_qyh_yhp_wpb" placement="inline"/></p>
+        </result>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d135e97" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Tasks </ph></title><task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="how_to_group_objects" oid="how_to_group_objects" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to group objects?</ph></title>
+    <shortdesc class="- topic/shortdesc ">You can treat multiple object as a single unit by combining them into a
+        group.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_8_Connect_42_prereq_fyc_tl5_5pb" nd:nd-id="prereq_fyc_tl5_5pb">You have created a <xref class="- topic/xref " href="#unique_2" type="task"><?ditaot usertext?>new project using a preset
+                artboard<?ditaot genshortdesc?><desc class="- topic/desc ">You can create a new project by choosing one of the preset projects.</desc></xref> or a <xref class="- topic/xref " href="#unique_3" type="task"><?ditaot usertext?>custom
+                project<?ditaot genshortdesc?><desc class="- topic/desc ">You can choose the dimensions for your new project by creating a custom         project.</desc></xref>.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You will be able to group objects in your project in Adobe XD.</p>
+            <p class="- topic/p ">You can combine several objects into a group when you want to treat the objects as a
+                single unit. You can then move or scale them without affecting their relative
+                positions. You can also apply one fill color to them. </p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open Adobe XD.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Hold down the <b class="+ topic/ph hi-d/b ">Shift</b> key.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on objects to select them.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Right click while holding the Shift key to open the options menu.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Group</b>.  <image class="- topic/image " height="384" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/how%20to%20group%20objects%20step%204.png" id="unique_8_Connect_42_image_jhs_jtr_xpb" nd:nd-id="image_jhs_jtr_xpb" placement="inline" width="636"/></cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_8_Connect_42_result_ltx_zsx_vpb" nd:nd-id="result_ltx_zsx_vpb">
+            <p class="- topic/p ">As a result after following the steps above you will have grouped objects in Adobe
+                XD. </p>
+            <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/result%20how%20to%20group%20objects.png" id="unique_8_Connect_42_image_swz_lb3_xpb" nd:nd-id="image_swz_lb3_xpb" placement="inline"/></p>
+        </result>
+        <example class="- topic/example " id="unique_8_Connect_42_example_yrw_4wx_vpb" nd:nd-id="example_yrw_4wx_vpb">
+            <p class="- topic/p ">In order to work with multiple objects as a single object, you need to group them.
+                You can group objects in a logo design so that you can move and scale the logo as a
+                single unit. </p>
+        </example>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="how_to_lock_objects" oid="how_to_lock_objects" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to lock an object?</ph></title>
+    <shortdesc class="- topic/shortdesc ">You can stop selecting and editing an object by locking it. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_9_Connect_42_prereq_upb_3lw_5pb" nd:nd-id="prereq_upb_3lw_5pb">You have created a <xref class="- topic/xref " href="#unique_2" type="task"><?ditaot usertext?>new project using a
+                preset artboard<?ditaot genshortdesc?><desc class="- topic/desc ">You can create a new project by choosing one of the preset projects.</desc></xref> or a <xref class="- topic/xref " href="#unique_3" type="task"><?ditaot usertext?>custom
+                project<?ditaot genshortdesc?><desc class="- topic/desc ">You can choose the dimensions for your new project by creating a custom         project.</desc></xref>.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You will be able to lock an object in your project in Adobe XD. </p>
+            <p class="- topic/p ">You can lock an object in Adobe XD when you do not want to select, nor edit it. </p>
+            <p class="- topic/p "> Locking an object will prevent you from selecting it and making changes to it. You
+                should not lock an object, if you want to select or edit it (change its position,
+                color or size).</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Right click on your object.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Lock</b>.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_9_Connect_42_result_amn_btx_vpb" nd:nd-id="result_amn_btx_vpb">
+            <p class="- topic/p ">As a result after following the steps above you will have locked an object in Adobe
+                XD. </p>
+            <p class="- topic/p "><image class="- topic/image " height="131" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/locked%20object%20result.png" id="unique_9_Connect_42_image_nmz_w5r_xpb" nd:nd-id="image_nmz_w5r_xpb" placement="inline" width="131"/></p>
+        </result>
+        <example class="- topic/example " id="unique_9_Connect_42_example_t21_rwx_vpb" nd:nd-id="example_t21_rwx_vpb">
+            <p class="- topic/p ">In order not to select, nor edit an object, while working with other objects, you
+                need to lock it. </p>
+        </example>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="how_to_apply_a_fill_color_to_an_object" oid="how_to_apply_a_fill_color_to_an_object" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to apply a fill color to an object?</ph></title>
+    <shortdesc class="- topic/shortdesc ">You can change the color of an object with your desired one by choosing a fill
+        color.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_10_Connect_42_prereq_t32_bmw_5pb" nd:nd-id="prereq_t32_bmw_5pb">You have created a <xref class="- topic/xref " href="#unique_2" type="task"><?ditaot usertext?>new project using a
+                preset artboard<?ditaot genshortdesc?><desc class="- topic/desc ">You can create a new project by choosing one of the preset projects.</desc></xref> or a<xref class="- topic/xref " href="#unique_3" type="task"><?ditaot usertext?> custom
+                project<?ditaot genshortdesc?><desc class="- topic/desc ">You can choose the dimensions for your new project by creating a custom         project.</desc></xref>.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You will be able to apply a fill color to an object in your project in Adobe XD.</p>
+            <p class="- topic/p ">The fill color is the color of a selected object. You can make your project more
+                vibrant by changing the colors of your objects with colors of your choice.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the object you want to apply a fill color to.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the rectangle in the <b class="+ topic/ph hi-d/b ">Fill</b>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter your desired hexadecimal color values in the <b class="+ topic/ph hi-d/b ">Hex </b>
+                    <image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/hex.png" id="unique_10_Connect_42_image_fn5_3nw_5pb" nd:nd-id="image_fn5_3nw_5pb" placement="inline"/>.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_10_Connect_42_result_whh_ctx_vpb" nd:nd-id="result_whh_ctx_vpb">
+            <p class="- topic/p ">As a result after following the steps above you will have applied a fill color to an
+                object in Adobe XD. </p>
+            <p class="- topic/p "><image class="- topic/image " height="131" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/fill%20color%20result.png" id="unique_10_Connect_42_image_als_z5r_xpb" nd:nd-id="image_als_z5r_xpb" placement="inline" width="131"/></p>
+        </result>
+        <example class="- topic/example " id="unique_10_Connect_42_example_vld_5wx_vpb" nd:nd-id="example_vld_5wx_vpb">
+            <p class="- topic/p ">When you want your object ot be a different color, you need to change its fill
+                color.</p>
+        </example>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="how_to_create_a_repeat_grid" oid="how_to_create_a_repeat_grid" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to create a repeat grid?</ph></title>
+    <shortdesc class="- topic/shortdesc ">You can save time while designing by using repeat grid. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_11_Connect_42_prereq_hxd_g4w_5pb" nd:nd-id="prereq_hxd_g4w_5pb">You have created a <xref class="- topic/xref " href="#unique_2" type="task"><?ditaot usertext?>new project using a
+                preset artboard<?ditaot genshortdesc?><desc class="- topic/desc ">You can create a new project by choosing one of the preset projects.</desc></xref> or a <xref class="- topic/xref " href="#unique_3" type="task"><?ditaot usertext?>custom
+                project<?ditaot genshortdesc?><desc class="- topic/desc ">You can choose the dimensions for your new project by creating a custom         project.</desc></xref>.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You will be able to create a repeat grid in your project in Adobe XD. </p>
+            <p class="- topic/p ">The repeat grid changes a group of elements to a repeating element. You can create a
+                vertical grid at the bottom of the element and a horizontal grid at the right of the
+                element. Modifications to a single element are replicated in all the elements of the
+                repeat grid. </p>
+            <p class="- topic/p ">You will be able to create a repeat grid in your project in Adobe XD.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Design the elements you want to repeat. <image class="- topic/image " height="74" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/design%20element%20repeat%20grid.png" id="unique_11_Connect_42_image_nbr_vpp_xpb" nd:nd-id="image_nbr_vpp_xpb" placement="inline" width="93"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the elements you want to repeat<image class="- topic/image " height="74" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/select%20repeat%20grid.png" id="unique_11_Connect_42_image_bfs_spp_xpb" nd:nd-id="image_bfs_spp_xpb" placement="inline" width="93"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on <b class="+ topic/ph hi-d/b ">Repeat Grid</b>
+                    <image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/repeat%20grid.png" id="unique_11_Connect_42_image_ofr_54w_5pb" nd:nd-id="image_ofr_54w_5pb" placement="inline"/> in the
+                    upper right.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To repeat the selection drag the large handle at the bottom or at the right of
+                    it. </cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_11_Connect_42_result_ivk_dtx_vpb" nd:nd-id="result_ivk_dtx_vpb">
+            <p class="- topic/p ">As a result after following the steps above you will have created a repeat grid in
+                Adobe XD.</p>
+            <p class="- topic/p "><image class="- topic/image " height="208" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/repear%20grid%20result.png" id="unique_11_Connect_42_image_sjf_lpp_xpb" nd:nd-id="image_sjf_lpp_xpb" placement="inline" width="257"/></p>
+        </result>
+        <example class="- topic/example " id="unique_11_Connect_42_example_j5l_ywx_vpb" nd:nd-id="example_j5l_ywx_vpb">
+            <p class="- topic/p ">When you want to create a set of repeated elements and save time, you need to create
+                a repeat grid. </p>
+        </example>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="how_to_link_an_object" oid="how_to_link_an_object" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to link an object?</ph></title>
+    <shortdesc class="- topic/shortdesc ">When you want to make your project interactive, you need to link objects.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_12_Connect_42_prereq_byx_tq4_wpb" nd:nd-id="prereq_byx_tq4_wpb">You have created a <xref class="- topic/xref " href="#unique_2" type="task"><?ditaot usertext?>new project with a preset
+            artboard<?ditaot genshortdesc?><desc class="- topic/desc ">You can create a new project by choosing one of the preset projects.</desc></xref> or a <xref class="- topic/xref " href="#unique_3" type="task"><?ditaot usertext?>custom
+                project<?ditaot genshortdesc?><desc class="- topic/desc ">You can choose the dimensions for your new project by creating a custom         project.</desc></xref>.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You will be able to link an object in Adobe XD.</p>
+            <p class="- topic/p ">The blue arrows (interactions) in the Prototype mode specify the events which trigger
+                actions to occur in your project. You can link objects to simulate the flow of a
+                real website or mobile app. You should link an object if you want it to be
+                clickable.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Switch to <b class="+ topic/ph hi-d/b ">Prototype</b> mode. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the object you want to link. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Drag the blue arrow <image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/connector.png" id="unique_12_Connect_42_image_bxv_bs4_wpb" nd:nd-id="image_bxv_bs4_wpb" placement="inline"/>to the destination object or artboard.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_12_Connect_42_result_vbn_wq4_wpb" nd:nd-id="result_vbn_wq4_wpb">
+            <p class="- topic/p ">As a result after following the steps above you will have linked an object in Adobe
+                XD.</p>
+            <p class="- topic/p "><image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/link%20result.png" id="unique_12_Connect_42_image_isz_hlp_wpb" nd:nd-id="image_isz_hlp_wpb" placement="inline"/></p>
+        </result>
+        <example class="- topic/example " id="unique_12_Connect_42_example_ft4_l1p_wpb" nd:nd-id="example_ft4_l1p_wpb">
+            <p class="- topic/p ">When you want to create an interactive project, you need to link the objects in
+                it.</p>
+        </example>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="how_to_save_your_project_as_pdf" oid="how_to_save_your_project_as_pdf" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to save your project as a single PDF?</ph></title>
+    <shortdesc class="- topic/shortdesc ">You can save your project on your computer by saving it as a single PDF. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_13_Connect_42_prereq_efv_gyv_5pb" nd:nd-id="prereq_efv_gyv_5pb">You have created a <xref class="- topic/xref " href="#unique_2" type="task"><?ditaot usertext?>new project with a preset
+                artboard<?ditaot genshortdesc?><desc class="- topic/desc ">You can create a new project by choosing one of the preset projects.</desc></xref> or a <xref class="- topic/xref " href="#unique_3" type="task"><?ditaot usertext?>custom
+                project<?ditaot genshortdesc?><desc class="- topic/desc ">You can choose the dimensions for your new project by creating a custom         project.</desc></xref>.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You will be able to save your project as a sinle PDF on your computer.</p>
+            <p class="- topic/p ">You can save your project as a single PDF (Portable Document Format) on your
+                computer, if you want to share it with individuals who do not have Adobe XD
+                installed on their devices. The PDF allows you to display the exact same content and
+                layout no matter which operating system, device or software application your project
+                is viewed on. It makes your work look organized. </p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the hamburger menu. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Navigate to <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;24:47" xtrf="file:/C:/Users/Asus/Desktop/Documentation%20-%20final/how_to_save_your_project_as_a_single_pdf.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Export</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">All Artboards...</uicontrol></menucascade> . <image class="- topic/image " height="548" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/export%20image.png" id="unique_13_Connect_42_image_bzv_bmr_xpb" nd:nd-id="image_bzv_bmr_xpb" placement="inline" width="364"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">PDF</b> from the drop-down menu. <image class="- topic/image " height="31" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/format%20pdf.png" id="unique_13_Connect_42_image_izs_rxr_xpb" nd:nd-id="image_izs_rxr_xpb" placement="inline" width="354"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose <b class="+ topic/ph hi-d/b ">Single PDF file</b>. <image class="- topic/image " height="77" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/single%20pdf%20file.png" id="unique_13_Connect_42_image_orb_hwr_xpb" nd:nd-id="image_orb_hwr_xpb" placement="inline" width="465"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on <b class="+ topic/ph hi-d/b ">Change</b> to navigate to your new save location. <image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/export%20as%20a%20single%20pdf%20change.png" id="unique_13_Connect_42_image_bdr_bxq_xpb" nd:nd-id="image_bdr_bxq_xpb" placement="inline"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose <b class="+ topic/ph hi-d/b ">Select Folder</b>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose <b class="+ topic/ph hi-d/b ">Export All Artboards</b>.  <image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/export%20all%20artboards.png" id="unique_13_Connect_42_image_yvz_fxq_xpb" nd:nd-id="image_yvz_fxq_xpb" placement="inline"/></cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_13_Connect_42_result_khj_2tx_vpb" nd:nd-id="result_khj_2tx_vpb">
+            <p class="- topic/p ">As a result after following the steps above you will have saved your project as a
+                single PDF on your computer.</p>
+            <p class="- topic/p "><image class="- topic/image " height="314" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/single%20pdf%20result.png" id="unique_13_Connect_42_image_p5c_jxr_xpb" nd:nd-id="image_p5c_jxr_xpb" placement="inline" width="581"/></p>
+        </result>
+        <example class="- topic/example " id="unique_13_Connect_42_example_ugf_3xx_vpb" nd:nd-id="example_ugf_3xx_vpb">
+            <p class="- topic/p ">When you want to send your project to people who do have Adobe XD installed on their
+                device, you need to save it as a single PDF file. </p>
+        </example>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="how_to_share_your_prototype_online" oid="how_to_share_your_prototype_online" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to share your project online?</ph></title>
+    <shortdesc class="- topic/shortdesc ">When you want certain people to see your project, you can share it online and send
+        them the link.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_14_Connect_42_prereq_hv4_jv4_wpb" nd:nd-id="prereq_hv4_jv4_wpb">You have created a <xref class="- topic/xref " href="#unique_2" type="task"><?ditaot usertext?>new project with a preset
+            artboard<?ditaot genshortdesc?><desc class="- topic/desc ">You can create a new project by choosing one of the preset projects.</desc></xref> or a <xref class="- topic/xref " href="#unique_3" type="task"><?ditaot usertext?>custom
+                project<?ditaot genshortdesc?><desc class="- topic/desc ">You can choose the dimensions for your new project by creating a custom         project.</desc></xref>.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You will be able to share your project online.</p>
+            <p class="- topic/p ">You can easily share your project online, if you want to receive feedback on your
+                design. You can send the link to the people you want to share it with, if you do not
+                want strangers to see your work, nor comment on it. </p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on <b class="+ topic/ph hi-d/b ">Share</b>. <image class="- topic/image " height="29" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/click%20on%20share.png" id="unique_14_Connect_42_image_bz5_dyr_xpb" nd:nd-id="image_bz5_dyr_xpb" placement="inline" width="458"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Navigate to <b class="+ topic/ph hi-d/b ">View Settings</b> and choose <b class="+ topic/ph hi-d/b ">Design Review</b>. <image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/view%20settings%20design%20review.png" id="unique_14_Connect_42_image_sfq_k1r_xpb" nd:nd-id="image_sfq_k1r_xpb" placement="inline"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Navigate to <b class="+ topic/ph hi-d/b ">Link Access</b> and choose <b class="+ topic/ph hi-d/b ">Only invited people</b>. <image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/link%20access%20only%20invited%20people.png" id="unique_14_Connect_42_image_jtg_l1r_xpb" nd:nd-id="image_jtg_l1r_xpb" placement="inline"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the link icon <image class="- topic/image " href="file:/C:/Users/Asus/Desktop/Tech%20Doc/share%20link.png" id="unique_14_Connect_42_image_rsj_1x4_wpb" nd:nd-id="image_rsj_1x4_wpb" placement="inline"/> to copy the link. </cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_14_Connect_42_result_etq_fv4_wpb" nd:nd-id="result_etq_fv4_wpb">
+            <p class="- topic/p ">As a result after following the steps above you will have shared your project
+                online.</p>
+            <p class="- topic/p "><image class="- topic/image " height="250" href="file:/C:/Users/Asus/Desktop/Tech%20Doc/save%20as%20pdf%20screen.png" id="unique_14_Connect_42_image_dht_vdr_xpb" nd:nd-id="image_dht_vdr_xpb" placement="inline" width="478"/></p>
+        </result>
+        <example class="- topic/example " id="unique_14_Connect_42_example_cwc_5y4_wpb" nd:nd-id="example_cwc_5y4_wpb">
+            <p class="- topic/p ">When you want to receive feedback on your design, you need to share your project
+                online. </p>
+        </example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d135e177" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Keyboard Shortcuts</ph></title><reference class="- topic/topic       reference/reference " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="keyboard_shortcuts" oid="keyboard_shortcuts" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Keyboard Shortcuts</ph></title>
+    <shortdesc class="- topic/shortdesc ">You can use shortcuts in Adobe XD to finish your work faster. </shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_15_Connect_42_table_a3r_vs4_wpb" nd:nd-id="table_a3r_vs4_wpb" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Tools</ph></title>
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;10:65" xtrf="file:/C:/Users/Asus/Desktop/Documentation%20-%20final/keyboard_shortcuts_0.dita" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;11:65" xtrf="file:/C:/Users/Asus/Desktop/Documentation%20-%20final/keyboard_shortcuts_0.dita" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Shortcuts for file menu</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Description</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Ctrl + N </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">You can opens the menu for creating a new project. </entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Alt + F4</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">You can close the program.</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Ctrl + S </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">You can save your project. </entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Ctrl + Shift + S </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">You can save your project and give it a specific name.</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">Ctrl + Shift + S + Alt </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">You can save your project as a local document on your
+                            computer.</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">Ctrl + E </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">You can export the selected. </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference></topic></map>
