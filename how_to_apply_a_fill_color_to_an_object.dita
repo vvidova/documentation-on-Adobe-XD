@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_apply_a_fill_color_to_an_object">
+    <title>How to apply a fill color to an object?</title>
+    <shortdesc>You can change the color of an object with your desired one by choosing a fill
+        color.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_t32_bmw_5pb">You have created a <xref
+                href="creating_a_project_with_a_preset_project.dita">new project using a
+                preset artboard</xref> or a<xref href="creating_a_custom_project.dita"> custom
+                project</xref>.</prereq>
+        <context>
+            <p>You will be able to apply a fill color to an object in your project in Adobe XD.</p>
+            <p>The fill color is the color of a selected object. You can make your project more
+                vibrant by changing the colors of your objects with colors of your choice.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Select the object you want to apply a fill color to.</cmd>
+            </step>
+            <step>
+                <cmd>Click the rectangle in the <b>Fill</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your desired hexadecimal color values in the <b>Hex </b>
+                    <image href="../Tech%20Doc/hex.png" id="image_fn5_3nw_5pb"/>.</cmd>
+            </step>
+        </steps>
+        <result id="result_whh_ctx_vpb">
+            <p>As a result after following the steps above you will have applied a fill color to an
+                object in Adobe XD. </p>
+            <p><image href="../Tech%20Doc/fill%20color%20result.png" width="131" height="131"
+                    id="image_als_z5r_xpb"/></p>
+        </result>
+        <example id="example_vld_5wx_vpb">
+            <p>When you want your object ot be a different color, you need to change its fill
+                color.</p>
+        </example>
+    </taskbody>
+</task>

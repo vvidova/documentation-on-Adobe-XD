@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_link_an_object">
+    <title>How to link an object?</title>
+    <shortdesc>When you want to make your project interactive, you need to link objects.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_byx_tq4_wpb">You have created a <xref
+            href="creating_a_project_with_a_preset_project.dita">new project with a preset
+            artboard</xref> or a <xref href="creating_a_custom_project.dita">custom
+                project</xref>.</prereq>
+        <context>
+            <p>You will be able to link an object in Adobe XD.</p>
+            <p>The blue arrows (interactions) in the Prototype mode specify the events which trigger
+                actions to occur in your project. You can link objects to simulate the flow of a
+                real website or mobile app. You should link an object if you want it to be
+                clickable.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Switch to <b>Prototype</b> mode. </cmd>
+            </step>
+            <step>
+                <cmd>Click on the object you want to link. </cmd>
+            </step>
+            <step>
+                <cmd>Drag the blue arrow <image href="../Tech%20Doc/connector.png"
+                        id="image_bxv_bs4_wpb"/>to the destination object or artboard.</cmd>
+            </step>
+        </steps>
+        <result id="result_vbn_wq4_wpb">
+            <p>As a result after following the steps above you will have linked an object in Adobe
+                XD.</p>
+            <p><image href="../Tech%20Doc/link%20result.png" id="image_isz_hlp_wpb"/></p>
+        </result>
+        <example id="example_ft4_l1p_wpb">
+            <p>When you want to create an interactive project, you need to link the objects in
+                it.</p>
+        </example>
+    </taskbody>
+</task>

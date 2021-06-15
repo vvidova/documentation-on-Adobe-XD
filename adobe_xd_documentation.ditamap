@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map collection-type="sequence">
+    <title>Adobe XD - documentation</title>
+    <topichead navtitle="About Adobe XD">
+        <topicref href="what_is_adobe_xd.dita" audience="novice"/>
+    </topichead>
+    <topichead navtitle="How to create a new project?">
+        <topicref href="creating_a_project_with_a_preset_project.dita" audience="novice"/>
+        <topicref href="creating_a_custom_project.dita" audience="novice"/>
+    </topichead>
+    <topichead navtitle="How to draw basic shapes using tools?">
+        <topicref href="drawing_a_square.dita" audience="novice"/>
+        <topicref href="drawing_a_triangle.dita" audience="novice"/>
+        <topicref href="drawing_a_circle.dita" audience="novice"/>
+        <topicref href="drawing_a_line.dita" audience="novice"/>
+    </topichead>
+    <topichead navtitle="Tasks ">
+        <topicref href="how_to_group_objects.dita" audience="novice"/>
+        <topicref href="how_to_lock_an_object.dita" audience="novice"/>
+        <topicref href="how_to_apply_a_fill_color_to_an_object.dita" audience="novice"/>
+        <topicref href="how_to_create_a_repeat_grid.dita" audience="expert"/>
+        <topicref href="how_to_link_an_object_to_another_object.dita" audience="expert"/>
+        <topicref href="how_to_save_your_project_as_a_single_pdf.dita" audience="novice"/>
+        <topicref href="how_to_share_your_project_online_0.dita" audience="expert"/>
+    </topichead>
+    <topichead navtitle="Keyboard Shortcuts">
+        <topicref href="keyboard_shortcuts_0.dita" audience="expert"/>
+    </topichead>
+</map>

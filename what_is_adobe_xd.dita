@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_adobe_xd">
+    <title>What is Adobe XD?</title>
+    <shortdesc>Adobe XD is used for creating designs for websites and mobile apps.</shortdesc>
+    <conbody>
+        <p>Adobe Experience Design (Adobe XD) is a vector-based user interface (UI) and user
+            experience (UX) design tool for websites and mobile apps. It works for all types of
+            projects because it allows you to easily add and remove content. You can use the tool
+            individually or together with a team. </p>
+        <p>It is available on Mac, Windows, iOS and Android. </p>
+        <p>With Adobe XD you can: <ul id="ul_osp_135_5pb">
+                <li>Easily create a new project.</li>
+                <li>Draw basic shapes using tools. </li>
+                <li>Group objects. </li>
+                <li>Lock objects. </li>
+                <li>Apply a fill color to an object. </li>
+                <li>Create a repeat grid. </li>
+                <li>Link an object. </li>
+                <li>Save your project as a single PDF. </li>
+                <li>Share your project online.</li>
+            </ul></p>
+        <p><image href="../Tech%20Doc/XD.png" width="300" height="300" id="image_fmd_tyh_xpb"/></p>
+    </conbody>
+</concept>

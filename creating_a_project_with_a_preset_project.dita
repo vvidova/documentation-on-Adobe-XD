@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_create_a_new_project">
+    <title>Creating a project with a preset project</title>
+    <shortdesc>You can create a new project by choosing one of the preset projects.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_jts_pp5_5pb">You must have installed Adobe XD on your computer and know
+            what an artboard is. The artboard represents the screen in your app design or the page
+            in your web design.</prereq>
+        <context>
+            <p>You will be able to create a project with a preset artboard in Adobe XD. </p>
+            <p>You can easily create a project using one of the given preset projects. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open Adobe XD.</cmd>
+            </step>
+            <step>
+                <cmd>Click on one of the three artboards to create your project. <image
+                        href="../Tech%20Doc/preset%20artboards.png" id="image_m2q_dzh_xpb"/></cmd>
+            </step>
+        </steps>
+        <result id="result_bxc_rsx_vpb">
+            <p>As a result after following the steps above you will have created a project with a
+                preset artboard in Adobe XD. </p>
+            <p><image href="../Tech%20Doc/creating%20a%20project%20with%20a%20preset%20artboard.png"
+                    width="324" height="200" id="image_y4z_2fr_xpb"/></p>
+        </result>
+        <example id="example_v2y_2wx_vpb">
+            <p>In order to use Adobe XD, you need to create a project.</p>
+        </example>
+    </taskbody>
+</task>

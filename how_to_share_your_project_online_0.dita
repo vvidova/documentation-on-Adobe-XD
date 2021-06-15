@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_share_your_prototype_online">
+    <title>How to share your project online?</title>
+    <shortdesc>When you want certain people to see your project, you can share it online and send
+        them the link.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_hv4_jv4_wpb">You have created a <xref
+            href="creating_a_project_with_a_preset_project.dita">new project with a preset
+            artboard</xref> or a <xref href="creating_a_custom_project.dita">custom
+                project</xref>.</prereq>
+        <context>
+            <p>You will be able to share your project online.</p>
+            <p>You can easily share your project online, if you want to receive feedback on your
+                design. You can send the link to the people you want to share it with, if you do not
+                want strangers to see your work, nor comment on it. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on <b>Share</b>. <image href="../Tech%20Doc/click%20on%20share.png"
+                        width="458" height="29" id="image_bz5_dyr_xpb"/></cmd>
+            </step>
+            <step>
+                <cmd>Navigate to <b>View Settings</b> and choose <b>Design Review</b>. <image
+                        href="../Tech%20Doc/view%20settings%20design%20review.png"
+                        id="image_sfq_k1r_xpb"/></cmd>
+            </step>
+            <step>
+                <cmd>Navigate to <b>Link Access</b> and choose <b>Only invited people</b>. <image
+                        href="../Tech%20Doc/link%20access%20only%20invited%20people.png"
+                        id="image_jtg_l1r_xpb"/></cmd>
+            </step>
+            <step>
+                <cmd>Click on the link icon <image href="../Tech%20Doc/share%20link.png"
+                        id="image_rsj_1x4_wpb"/> to copy the link. </cmd>
+            </step>
+        </steps>
+        <result id="result_etq_fv4_wpb">
+            <p>As a result after following the steps above you will have shared your project
+                online.</p>
+            <p><image href="../Tech%20Doc/save%20as%20pdf%20screen.png" width="478" height="250"
+                    id="image_dht_vdr_xpb"/></p>
+        </result>
+        <example id="example_cwc_5y4_wpb">
+            <p>When you want to receive feedback on your design, you need to share your project
+                online. </p>
+        </example>
+    </taskbody>
+</task>

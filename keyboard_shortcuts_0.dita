@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="keyboard_shortcuts">
+    <title>Keyboard Shortcuts</title>
+    <shortdesc>You can use shortcuts in Adobe XD to finish your work faster. </shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_a3r_vs4_wpb">
+            <title>Tools</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Shortcuts for file menu</entry>
+                        <entry>Description</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Ctrl + N </entry>
+                        <entry>You can opens the menu for creating a new project. </entry>
+                    </row>
+                    <row>
+                        <entry>Alt + F4</entry>
+                        <entry>You can close the program.</entry>
+                    </row>
+                    <row>
+                        <entry>Ctrl + S </entry>
+                        <entry>You can save your project. </entry>
+                    </row>
+                    <row>
+                        <entry>Ctrl + Shift + S </entry>
+                        <entry>You can save your project and give it a specific name.</entry>
+                    </row>
+                    <row>
+                        <entry>Ctrl + Shift + S + Alt </entry>
+                        <entry>You can save your project as a local document on your
+                            computer.</entry>
+                    </row>
+                    <row>
+                        <entry>Ctrl + E </entry>
+                        <entry>You can export the selected. </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

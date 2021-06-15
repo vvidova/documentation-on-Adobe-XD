@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_lock_objects">
+    <title>How to lock an object?</title>
+    <shortdesc>You can stop selecting and editing an object by locking it. </shortdesc>
+    <taskbody>
+        <prereq id="prereq_upb_3lw_5pb">You have created a <xref
+                href="creating_a_project_with_a_preset_project.dita">new project using a
+                preset artboard</xref> or a <xref href="creating_a_custom_project.dita">custom
+                project</xref>.</prereq>
+        <context>
+            <p>You will be able to lock an object in your project in Adobe XD. </p>
+            <p>You can lock an object in Adobe XD when you do not want to select, nor edit it. </p>
+            <p> Locking an object will prevent you from selecting it and making changes to it. You
+                should not lock an object, if you want to select or edit it (change its position,
+                color or size).</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Right click on your object.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Lock</b>.</cmd>
+            </step>
+        </steps>
+        <result id="result_amn_btx_vpb">
+            <p>As a result after following the steps above you will have locked an object in Adobe
+                XD. </p>
+            <p><image href="../Tech%20Doc/locked%20object%20result.png" width="131" height="131"
+                    id="image_nmz_w5r_xpb"/></p>
+        </result>
+        <example id="example_t21_rwx_vpb">
+            <p>In order not to select, nor edit an object, while working with other objects, you
+                need to lock it. </p>
+        </example>
+    </taskbody>
+</task>

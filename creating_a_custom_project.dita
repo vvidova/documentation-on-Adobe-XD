@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_create_a_custom_project">
+    <title>Creating a custom project</title>
+    <shortdesc>You can choose the dimensions for your new project by creating a custom
+        project.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_cdv_kt5_5pb">You must have installed Adobe XD on your computer and know
+            what an artboard is. The artboard represents the screen in your app design or the page
+            in your web design.</prereq>
+        <context>
+            <p>You will be able to create a custom project in Adobe XD. </p>
+            <p>You can create a custom project, if you do not want to use any of the preset
+                projects. The custom project allows you to have specific values for width and
+                height. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open Adobe XD. </cmd>
+            </step>
+            <step>
+                <cmd>Navigate to <b>Custom Size</b>. <image href="../Tech%20Doc/custom.png"
+                        width="100" height="100" id="image_bt2_5bp_wpb"/></cmd>
+            </step>
+            <step>
+                <cmd>Enter the width and the height for the artboard in the <b>W</b> and <b>H</b>
+                    sections. <image href="../Tech%20Doc/w%20h%20sect.png" id="image_tfq_vbp_wpb"
+                    /></cmd>
+            </step>
+            <step>
+                <cmd>Click on <b>Custom Size</b> to create your custom project. <image
+                        href="../Tech%20Doc/custom%20p.png" width="100" height="100"
+                        id="image_zqy_ccp_wpb"/></cmd>
+            </step>
+        </steps>
+        <result id="result_d4l_lsx_vpb">
+            <p>As a result after following the steps above you will have created a custom project in
+                Adobe XD.</p>
+            <p><image href="../Tech%20Doc/create%20a%20custom%20project%20result.png" width="273"
+                    height="169" id="image_mvz_3fr_xpb"/></p>
+        </result>
+        <example id="example_kn3_55x_vpb">
+            <p>When you want to create a new project with specific width and height, different from
+                the prest artboard, you need to create a custom project. </p>
+        </example>
+    </taskbody>
+</task>

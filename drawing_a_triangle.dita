@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_draw_a_triangle">
+    <title>Drawing a triangle</title>
+    <shortdesc>You can add a new shape to your design using a triangle.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_irz_z3w_5pb">You have created a <xref
+                href="creating_a_project_with_a_preset_project.dita">new project using a
+                preset artboard</xref> or a <xref href="creating_a_custom_project.dita">custom
+                project</xref>.</prereq>
+        <context>
+            <p id="target_t">You can quickly draw triangles using the Triangle tool - a drawing tool
+                located on the left toolbar.</p>
+            <p><image href="../Tech%20Doc/drawing%20a%20triangle%20tool%20.png" width="26"
+                    height="214" id="image_kfp_whr_xpb"/></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Select the triangle tool <image href="../Tech%20Doc/triangle.png"
+                        id="image_hxb_gjw_5pb"/> .</cmd>
+            </step>
+            <step>
+                <cmd>Drag the triangle diagonally until the it is the desired size.</cmd>
+            </step>
+        </steps>
+        <result id="result_qnv_xsx_vpb">
+            <p>As a result after following the steps above you will have drawn a triangle in Adobe
+                XD.</p>
+            <p><image href="../Tech%20Doc/triangle%20results.png" width="332" height="264"
+                    id="image_hs3_3jr_xpb"/></p>
+        </result>
+    </taskbody>
+</task>

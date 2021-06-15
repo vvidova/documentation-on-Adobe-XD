@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_group_objects">
+    <title>How to group objects?</title>
+    <shortdesc>You can treat multiple object as a single unit by combining them into a
+        group.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_fyc_tl5_5pb">You have created a <xref
+                href="creating_a_project_with_a_preset_project.dita">new project using a preset
+                artboard</xref> or a <xref href="creating_a_custom_project.dita">custom
+                project</xref>.</prereq>
+        <context>
+            <p>You will be able to group objects in your project in Adobe XD.</p>
+            <p>You can combine several objects into a group when you want to treat the objects as a
+                single unit. You can then move or scale them without affecting their relative
+                positions. You can also apply one fill color to them. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open Adobe XD.</cmd>
+            </step>
+            <step>
+                <cmd>Hold down the <b>Shift</b> key.</cmd>
+            </step>
+            <step>
+                <cmd>Click on objects to select them.</cmd>
+            </step>
+            <step>
+                <cmd>Right click while holding the Shift key to open the options menu.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Group</b>.  <image
+                        href="../Tech%20Doc/how%20to%20group%20objects%20step%204.png" width="636"
+                        height="384" id="image_jhs_jtr_xpb"/></cmd>
+            </step>
+        </steps>
+        <result id="result_ltx_zsx_vpb">
+            <p>As a result after following the steps above you will have grouped objects in Adobe
+                XD. </p>
+            <p><image href="../Tech%20Doc/result%20how%20to%20group%20objects.png"
+                    id="image_swz_lb3_xpb"/></p>
+        </result>
+        <example id="example_yrw_4wx_vpb">
+            <p>In order to work with multiple objects as a single object, you need to group them.
+                You can group objects in a logo design so that you can move and scale the logo as a
+                single unit. </p>
+        </example>
+    </taskbody>
+</task>
